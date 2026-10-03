@@ -6,8 +6,6 @@ A reusable Excel template for compensation and benefits planning for Belgian whi
 
 The workbook combines workforce budgeting, salary positioning and benefit-cost calculations in three sheets. It contains **250 fictional employee records** and prepared formulas for **up to 500 employees**. Employee IDs, salaries, roles, company bands and budgets are synthetic; statutory references and benefit values are documented separately.
 
-[Download the Excel workbook](Belgian_Compensation_Benefits_Template.xlsx)
-
 ## Project purpose
 
 This portfolio project demonstrates how Excel can support practical C&B work: translating sector rules into transparent calculations, estimating employer costs, reviewing salary position and helping users identify inputs that need attention.
